@@ -1,7 +1,7 @@
 name: awaken
 favicon: null
 layout_spectrum: 0.3426902594510466
-typography_spectrum: 0.86067
+typography_spectrum: 0.02202517888508737
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.8125
-  rhythmicContrast: 1
+  brandStrength: 0.438372345874086
+  lightness: 0.3365961932577193
+  saturation: 0.6975917613599449
+  rhythmicContrast: 0.08391407690942287
 purpose: []
